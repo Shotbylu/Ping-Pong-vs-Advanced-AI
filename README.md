@@ -1,7 +1,6 @@
 # Ping Pong vs Advanced AI
 
-![Uploading 2c8fefe0-914b-11ef-91ff-2de93c17cc78.jpg…]()
-
+![image](https://github.com/user-attachments/assets/2f644b39-61e2-46bf-99a7-e76f9d7282d2)
 
 ## Overview
 Ping Pong vs Advanced AI is an engaging and challenging Pong game built using Python and the Pygame library. It offers both single-player and two-player modes, where players can compete against an advanced AI opponent or play against another human player.
